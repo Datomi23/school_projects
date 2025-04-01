@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "ft_printf.h": "c"
+    }
+}
